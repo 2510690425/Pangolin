@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++0x -Wall  -O3 -DNDEBUG -rdynamic CMakeFiles/SimpleRepeatVideo.dir/main.cpp.o -o SimpleRepeatVideo  -Wl,-rpath,/home/cyx/Softwares/SensorsCalibration/lidar2lidar/Pangolin/build/src ../../src/libpangolin.so -lGL -lGLU -lGLEW -lX11 -lpython2.7 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lpng -lz -ljpeg -ltiff 
